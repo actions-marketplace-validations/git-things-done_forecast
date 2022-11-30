@@ -16,7 +16,7 @@
   "type": "module",
   "dependencies": {
     "@types/node-fetch": "^3.0.3",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "node-fetch": "^3.0.0"
   }
 }
